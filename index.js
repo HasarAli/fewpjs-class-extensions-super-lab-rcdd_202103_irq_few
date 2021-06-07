@@ -19,6 +19,7 @@ class Deciduous extends Tree {
   static definition() {
     return super.definition() + ' Deciduous trees shed their leaves annually.'
   }
+<<<<<<< HEAD
 }
 
 class Evergreen extends Tree {
@@ -30,4 +31,6 @@ class Evergreen extends Tree {
   static definition() {
     return super.definition() + ' Evergreens keep their leaves all year round.'
   }
+=======
+>>>>>>> a9bb26557f7d131d2ca0f3b0f6b9a884e3699453
 }
